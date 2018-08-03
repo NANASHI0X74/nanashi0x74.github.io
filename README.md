@@ -1,6 +1,6 @@
 # Rian Lindenberger's hacky CV site
 
-![alt text](resources/)
+![ASCII art of a handsome looking software engineer.](/resources/LIIDVcUR_400x400.png)
 
 ### Hi! I'm Rian, and this is supposed to be a sort of CV, but it's actually just a collection of links to social networks:
 
