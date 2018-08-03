@@ -1,6 +1,6 @@
 # Rian Lindenberger's hacky CV site
 
-(TODO: INSERT AN IMAGE)
+![alt text](resources/)
 
 ### Hi! I'm Rian, and this is supposed to be a sort of CV, but it's actually just a collection of links to social networks:
 
