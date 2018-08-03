@@ -15,4 +15,4 @@ Flavor two: ranting gamer/ software engineer - Check out NANASHI0x74 (@nanashi0x
 - I the next two languages I intend on learning are:
     1. spanish
     2. irish gaelic
-- I really want to learn how to web design and how to javascript, but I used Markdown to build this within like an hour, so we'll have to live with that. Cool? Cool. ^^
+- I really want to learn how to web design and how to javascript, but I used Markdown to build this within like an hour, so we'll have to live with that. Cool? Cool. ^^ (maybe it was more than an hour, would have to look that up in the commit history, but I'm too lazy for that. Also, I was using only my phone 😀)
